@@ -1,0 +1,7 @@
+numpy
+streamlit
+scikit-learn
+streamlit-lottie
+pickles
+json
+pandas
